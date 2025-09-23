@@ -29,8 +29,7 @@
 
 ### Three-Tier Modular Design
 
-  LOCAL Nodes     ◄──► Enterprise      ◄──►  Group Manager 
-  (Edge AI)              Manager            (Multi-Entity) 
+  LOCAL Nodes ◄──► Enterprise Manager ◄──► Group Manager (Multi-Entity)            
 
 
 ### Core Components
