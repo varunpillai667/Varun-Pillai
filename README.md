@@ -46,6 +46,6 @@
 | **Group Manager** | Strategic layer for multi-entity orgs | Cloud |
 
 ## 📊 Technical Documentation
-- [Full Architecture Deep Dive](ARCHITECTURE.md)
-- [Innovation Statement](INNOVATION.md) 
+- [Full Architecture Deep Dive](architecture.md)
+- [Innovation Statement](innovation.md) 
 - [Original White Paper](docs/WHITEPAPER.md)
