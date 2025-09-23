@@ -29,7 +29,10 @@
 
 ### Three-Tier Modular Design
 
-  LOCAL Nodes ◄──► Enterprise Manager ◄──► Group Manager (Multi-Entity)            
+  LOCAL Nodes ◄──► Enterprise Manager ◄──► Group Manager (Multi-Entity)
+
+  ![Architecture Diagram](docs/em.svg.svg)
+
 
 
 ### Core Components
