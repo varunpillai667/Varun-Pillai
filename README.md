@@ -28,10 +28,10 @@
 ## 🏗️ Architecture
 
 ### Three-Tier Modular Design
-┌─────────────────┐ ┌──────────────────┐ ┌─────────────────┐
+
   LOCAL Nodes     ◄──► Enterprise      ◄──►  Group Manager 
   (Edge AI)              Manager            (Multi-Entity) 
-└─────────────────┘ └──────────────────┘ └─────────────────┘
+
 
 ### Core Components
 
@@ -41,35 +41,4 @@
 | **Enterprise Manager** | Central AI engine for single entity | Cloud/Hybrid |
 | **Group Manager** | Strategic layer for multi-entity orgs | Cloud |
 
-![Architecture Diagram](ENTERPRISE%20MANAGER.svg)
 
-*Architecture showing data flow from factory systems to unified user interface*
-
----
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-- Python 3.9+
-- Docker & Docker Compose
-- PostgreSQL 12+
-- Redis 6+
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/original-enterprise-ai.git
-cd original-enterprise-ai
-
-# Setup environment
-cp .env.example .env
-# Edit .env with your configuration
-
-# Start with Docker
-docker-compose up -d
-
-# Or install locally
-pip install -r requirements.txt
-python setup.py install
