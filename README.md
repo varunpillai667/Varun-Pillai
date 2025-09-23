@@ -29,17 +29,6 @@
 
 ---
 
-## 🚀 Execution Roadmap
-
-| Phase | Timeline | Description |
-|-------|----------|-------------|
-| **MVP** | Q3 2025 | Pilot with core simulation and NLP in logistics |
-| **Beta Launch** | Q1 2026 | Deploy in healthcare, retail, and energy sectors |
-| **Commercial** | Q3 2026 | Full SaaS release via partners |
-| **Scale-up** | 2027 | Add ESG, investment modules, public sector entry |
-
----
-
 ## 🛠️ Technology Stack
 
 - **AI/ML**: NLP with RAG, Predictive Analytics (LSTM, transformers)
