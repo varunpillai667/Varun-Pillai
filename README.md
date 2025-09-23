@@ -49,3 +49,4 @@
 - [Full Architecture Deep Dive](architecture.md)
 - [Innovation Statement](innovation.md) 
 - [Original White Paper](docs/Original Enterprise AI-Concept by Varun Pillai.pdf)
+
