@@ -35,6 +35,8 @@
 
 
 
+  ![Architecture Diagram](docs/gm.svg.svg)
+
 ### Core Components
 
 | Component | Purpose | Deployment |
