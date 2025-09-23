@@ -45,4 +45,7 @@
 | **Enterprise Manager** | Central AI engine for single entity | Cloud/Hybrid |
 | **Group Manager** | Strategic layer for multi-entity orgs | Cloud |
 
-
+## 📊 Technical Documentation
+- [Full Architecture Deep Dive](ARCHITECTURE.md)
+- [Innovation Statement](INNOVATION.md) 
+- [Original White Paper](docs/WHITEPAPER.md)
