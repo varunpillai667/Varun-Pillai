@@ -23,7 +23,7 @@ Original Enterprise AI is a hierarchical AI platform with three distinct layers 
 - **User Interface**: Natural language queries, role-based dashboards
 - **External Context**: Market trends, weather, regulatory data
 
-![Enterprise Manager Architecture](docs/em.svg)
+![Enterprise Manager Architecture](docs/em.svg.svg)
 
 ## Layer 3: Group Manager (Strategic Intelligence)
 **Purpose**: Cross-entity strategic oversight for multi-organization enterprises
@@ -32,7 +32,7 @@ Original Enterprise AI is a hierarchical AI platform with three distinct layers 
 - **World Context**: Global market intelligence, geopolitical analysis
 - **User Level**: CXO and board-level decision support
 
-![Group Manager Architecture](docs/gm.svg)
+![Group Manager Architecture](docs/gm.svg.svg)
 
 ## Technical Stack
 - **AI/ML**: NLP with RAG, LSTM/transformers, multi-agent optimization
