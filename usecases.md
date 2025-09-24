@@ -6,7 +6,7 @@ This directory contains detailed, narrative-driven use cases that demonstrate ho
 
 | Industry | Use Case | Key Problem Solved | Target Role | Impact |
 | :--- | :--- | :--- | :--- | :--- |
-| **🏭 Logistics & Manufacturing** | [AI-Optimized Inventory Scheduling](usecases/01-logistics-inventory-optimization.md) | Reactive supply chain, supplier disruptions | COO, Supply Chain VP | 12-15% lower holding costs, 20% better supplier reliability |
+| **🏭 Logistics & Manufacturing** | [AI-Optimized Inventory Scheduling](UseCases/logistics & supplychain.pdf) | Reactive supply chain, supplier disruptions | COO, Supply Chain VP | 12-15% lower holding costs, 20% better supplier reliability |
 | **🏥 Healthcare** | [Hospital Resource Optimization](usecases/02-healthcare-resource-optimization.md) | ER overcrowding, inefficient bed utilization | Hospital CEO, COO | 25% better bed use, 18% shorter ER wait times |
 | **🛍️ Retail** | [Dynamic Pricing & Forecasting](usecases/03-retail-dynamic-pricing.md) | Static pricing, inaccurate regional forecasts | Chief Revenue Officer | 8-10% higher SKU revenue, >90% forecast accuracy |
 
