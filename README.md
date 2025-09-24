@@ -31,10 +31,10 @@
 
   LOCAL Nodes ◄──► Enterprise Manager ◄──► Group Manager (Multi-Entity)
 
-  ![Architecture Diagram](docs/em.svg.svg)
+  ![Architecture Diagram](docs/EM.svg)
 
 
-  ![Architecture Diagram](docs/gm.svg.svg)
+  ![Architecture Diagram](docs/GM.svg)
 
 
 ### Core Components
