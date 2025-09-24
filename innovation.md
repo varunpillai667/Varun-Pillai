@@ -31,6 +31,6 @@
 
 ## Potential Impact
 This architecture addresses key challenges for enterprises:
-- **Supply Chain Resilience**: Cross-entity simulation for Brexit-related disruptions
+- **Supply Chain Resilience**: Cross-entity simulation for example Brexit-related disruptions
 - **ESG Compliance**: Unified sustainability reporting across corporate groups
 - **Economic Efficiency**: 12-15% operational cost reductions demonstrated
