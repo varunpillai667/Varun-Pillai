@@ -56,4 +56,4 @@ See how Original Enterprise AI solves real business problems across industries:
 - **Healthcare:** Hospital resource optimization  
 - **Retail:** Dynamic pricing & demand forecasting
 
-📖 **[Explore all use cases →](USECASES.md)**
+📖 **[Explore all use cases →](usecases.md)**
