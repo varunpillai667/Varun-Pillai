@@ -49,4 +49,11 @@
 - [Full Architecture Deep Dive](architecture.md)
 - [Innovation Statement](innovation.md) 
 
+## 🚀 Use Cases
 
+See how Original Enterprise AI solves real business problems across industries:
+- **Logistics:** Predictive inventory & vendor management
+- **Healthcare:** Hospital resource optimization  
+- **Retail:** Dynamic pricing & demand forecasting
+
+📖 **[Explore all use cases →](USECASES.md)**
