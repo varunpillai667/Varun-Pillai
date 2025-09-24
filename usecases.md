@@ -17,8 +17,3 @@ Every use case follows the same structure:
 - **The OEAI Solution:** Step-by-step interaction with the platform
 - **The Outcome:** Quantifiable business impact
 - **Features Demonstrated:** How OEAI capabilities solve the problem
-
-## ➕ More Coming Soon
-- **⚡ Energy & Utilities:** Predictive maintenance for grid assets
-- **🏦 Financial Services:** Cross-entity risk exposure analysis
-- **🌾 Agriculture:** Supply chain optimization from farm to table
