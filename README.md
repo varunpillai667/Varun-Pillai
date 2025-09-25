@@ -1,10 +1,5 @@
 # Original Enterprise AI 🚀
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Architecture](https://img.shields.io/badge/architecture-modular-green.svg)](https://github.com/yourusername/original-enterprise-ai)
-[![Documentation](https://img.shields.io/badge/docs-white_paper-brightgreen.svg)](Original%20Enterprise%20AI-Concept%20by%20Varun%20Pillai.pdf)
-
 **A Modular, Scalable Decision Intelligence Platform for Modern Enterprises**
 
 > **Transform decision-making with AI-driven foresight across all organizational levels**
